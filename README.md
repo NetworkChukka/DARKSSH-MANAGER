@@ -56,7 +56,7 @@ gets $100 in credit over 60 days
 sudo -s
 ```
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Dark; chmod 777 Dark; ./Dark
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NetworkChukka/DARKSSH-MANAGER/master/Dark; chmod 777 Dark; ./Dark
 
 ```
 
@@ -122,7 +122,7 @@ SCRIPT DARKSSH MANAGER යනු සුදුසු අංග සහ මෙව�
 
 # 🏃‍contact me
 
-3. [🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥](https://t.me/sibatrow) 
+3. [🔥⚡️⚡️ Networkchukka 🇱🇰 ⚡️⚡️🔥](https://t.me/networkchukka) 
 
 ```
 * NO MINING!
